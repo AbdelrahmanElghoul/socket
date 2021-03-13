@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:socket/core/local_notification.dart';
+import 'package:socket/util/local_notification.dart';
 import 'package:web_socket_channel/io.dart';
 
 class WebSocketDemo extends StatefulWidget {
